@@ -1,7 +1,5 @@
 # Ch. 1: Foundation on Artificial Intelligence (team task at Google Colab only)
 
-Menjelaskan deliverables dari tugas Chapter 1: Foundation on Artificial Intelligence. Tugas ini adalah kerja kelompok yang dilakukan hanya di Google Colab. Tugas ini mencakup pembuatan kode Python untuk kalkulasi pecahan uang tunai dan analisis data menggunakan pustaka pandas serta visualisasi data.
-
 ## Isi
 
 1. [Kalkulasi Pecahan Uang Tunai (01_Kelompok_B_2.ipynb)](#1-kalkulasi-pecahan-uang-tunai-01_kelompok_b_2ipynb)
